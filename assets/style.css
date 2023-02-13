@@ -3,8 +3,9 @@
   margin-top: 37.1px;
 }
 
+
 .dizeres{
-  
+  position: absolute;
   margin-top: 214px;
   margin-left: 160px;
 }
@@ -17,13 +18,15 @@
 }
 
 .dizeres p{
-  margin-top: 12px;
+  position: absolute;
+  margin-top: 42px;
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
 }
 
 .buttons{
+  position: absolute;
   display: flex;
   gap: 24px;
 }
@@ -37,7 +40,7 @@
   width: 139px;
   height: 43px;
   margin-left: 160px;
-  margin-top: 42px;
+  margin-top: 477px;
 
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
   border-radius: 40px;
@@ -52,14 +55,15 @@
   justify-content: center;
   align-items: center;
 
-  margin-top: 42px;
+  margin-top: 477px;
 }
 
 .background{
-  width: 800px;
+  position: absolute;
+  width: 750px;
   height: 500px;
   margin-left: 691px;
-  margin-top: 245.96px;
+ 
   background: linear-gradient(180deg, #3CB7DE 0%, #3FA3FF 100%);
 
   border-radius: 500px 0px 0px 500px;
