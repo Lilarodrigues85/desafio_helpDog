@@ -1,0 +1,68 @@
+.logo img{
+  margin-left: 160px;
+  margin-top: 37.1px;
+}
+
+.dizeres{
+  
+  margin-top: 214px;
+  margin-left: 160px;
+}
+
+.dizeres h1{
+  color: #3C184E;
+  font-weight: 900;
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.dizeres p{
+  margin-top: 12px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.buttons{
+  display: flex;
+  gap: 24px;
+}
+
+.contribuir{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #713FFF;
+  width: 139px;
+  height: 43px;
+  margin-left: 160px;
+  margin-top: 42px;
+
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 40px;
+}
+
+.contribuir a{
+  color: white;
+}
+
+.contato{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 42px;
+}
+
+.background{
+  width: 800px;
+  height: 500px;
+  margin-left: 691px;
+  margin-top: 245.96px;
+  background: linear-gradient(180deg, #3CB7DE 0%, #3FA3FF 100%);
+
+  border-radius: 500px 0px 0px 500px;
+  transform: rotate(-17.91deg);
+ 
+}
