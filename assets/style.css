@@ -3,11 +3,11 @@
   margin-top: 37.1px;
 }
 
-
 .dizeres{
   position: absolute;
   margin-top: 214px;
   margin-left: 160px;
+  
 }
 
 .dizeres h1{
@@ -58,15 +58,4 @@
   margin-top: 477px;
 }
 
-.background{
-  position: absolute;
-  width: 750px;
-  height: 500px;
-  margin-left: 691px;
- 
-  background: linear-gradient(180deg, #3CB7DE 0%, #3FA3FF 100%);
 
-  border-radius: 500px 0px 0px 500px;
-  transform: rotate(-17.91deg);
- 
-}
