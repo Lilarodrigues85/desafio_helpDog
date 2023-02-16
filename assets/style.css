@@ -1,61 +1,105 @@
-.logo img{
-  margin-left: 160px;
-  margin-top: 37.1px;
+.logo img {
+    margin-left: 160px;
+    margin-top: 37.1px;
 }
 
-.dizeres{
-  position: absolute;
-  margin-top: 214px;
-  margin-left: 160px;
-  
+.dizeres {
+    position: absolute;
+    margin-top: 214px;
+    margin-left: 160px;
+
 }
 
-.dizeres h1{
-  color: #3C184E;
-  font-weight: 900;
-  font-size: 64px;
-  line-height: 80px;
+.dizeres h1 {
+    color: #3C184E;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 80px;
 }
 
-.dizeres p{
-  position: absolute;
-  margin-top: 42px;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 19px;
+.dizeres p {
+    position: absolute;
+    margin-top: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
 }
 
-.buttons{
-  position: absolute;
-  display: flex;
-  gap: 24px;
+.rectangle1 {
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    left: 689px;
+    top: 245.96px;
+
+    background: linear-gradient(180deg, #3CB7DE 0%, #3FA3FF 100%);
+    border-radius: 500px 0 0 500px;
+    transform: rotate(-17.91deg);
 }
 
-.contribuir{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  background-color: #713FFF;
-  width: 139px;
-  height: 43px;
-  margin-left: 160px;
-  margin-top: 477px;
-
-  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
-  border-radius: 40px;
+.paws {
+    position: absolute;
+    width: 692.48px;
+    height: 569.48px;
+    left: 788px;
+    top: 12px;
 }
 
-.contribuir a{
-  color: white;
+.group7 {
+    position: absolute;
+    width: 914.98px;
+    height: 721.74px;
+    left: 691px;
+    top: -0px;
 }
 
-.contato{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  margin-top: 477px;
+.racao {
+    position: absolute;
+    width: 300px;
+    height: 247.5px;
+    left: 687px;
+    top: 474px;
+    background: url("imagens/ration.png");
 }
 
+.dog {
+    position: absolute;
+    width: 450px;
+    height: 466.78px;
+    left: 631px;
+    top: 135px;
+    /*background: url(imagens/dog.png);*/
+}
 
+.buttons {
+    position: absolute;
+    display: flex;
+    gap: 24px;
+}
+
+.contribuir {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #713FFF;
+    width: 139px;
+    height: 43px;
+    margin-left: 160px;
+    margin-top: 477px;
+
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.contribuir a {
+    color: white;
+}
+
+.contato {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 477px;
+}
