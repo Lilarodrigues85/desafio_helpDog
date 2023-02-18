@@ -58,4 +58,32 @@
   margin-top: 477px;
 }
 
+.fundo_cao{
+  position: absolute;
+  width: 800px;
+  height: 500px;
+  margin-left: 691px;
+  margin-top: 35px;
 
+  background: linear-gradient(180deg, #3CB7DE 0%, #3FA3FF 100%);
+  border-radius: 500px 0px 0px 500px;
+  transform: rotate(-17.91deg);
+  
+}
+
+.cachorro img {
+  position: absolute;
+  width: 350px;
+  height: 366.78px;
+  left: 780px;
+  top: 210px;
+  
+}
+
+.racao img{
+  position: absolute;
+  width: 200px;
+  height: 147.5px;
+  left: 787px;
+  top: 474px;
+}
